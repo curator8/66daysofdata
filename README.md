@@ -11,3 +11,10 @@ yeah it's technically day 3, but I haven't fallen asleep yet so I figured I repo
 At the moment I am learning about Multiple linear Regression, we just recently started the chapter on confounding between predictor variables and how it affects the overall analysis. In my tutoring session, I had to explain various probability rules like general addition rule versus addition rule or concepts like disjoint events versus independent events (to be honest they still confuse me :D). In my data structures and algorithms class, I've been working in a team setting to work on a tweet program, where we can add, edit, like, and print tweets on the console (so far it's been fun and challenging). 
 
 In terms of python, I learned for loop syntax through Maxwell Armi's implementation of a selection sort algorithm using 2 for loops. To be honest, I definitely see the appeal of learning python as a first language, since it's very clear on what's what. ANYWAYS, that's all for today, thanks for reading!
+
+# day 3
+I was catching up on some assignments last night so I didn't get a chance to post on my day 3 progress. I'm still on Maxwell Armi's python course, the good news is I am about half way through. I think it helps that I have a programming background which allows me to skim over some topics.
+
+I mainly reviewed a lot of statistics yesterday. I read some more on how we interpret cofounding and the coefficient of determination when applying multiple linear regression in context of the given question and data. That being said, my applied statistical analysis teacher recently assigned a project to us to apply some of the concepts we learned so far which should be fun :).
+
+I also brushed up on some previous concept like binomial distribution (and function) to help a fellow student with some of the intuition behind it and how to solve different sorts problems associated with it. But, that's all for today, thanks for reading!
