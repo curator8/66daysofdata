@@ -1,9 +1,9 @@
 # 66daysofdata
-personal accounts of my 66 day journey on learning about data science. 
+Personal accounts of my 66 day journey on learning about data science. 
 
 # day 1 
 
-day 1: #66daysofdata So this is day 1 of 66 days of my data journey, at the moment, I am following this Github's page Data Analyst recommend learning path (https://lnkd.in/drJYYgi) to go over some the basic syntax and packages on python, you can view my code here https://lnkd.in/dgPnfSK. The course I am following was created by Maxwell Armi (https://lnkd.in/diVsFH8)
+So this is day 1 of 66 days of my data journey, at the moment, I am following this Github's page Data Analyst recommend learning path (https://lnkd.in/drJYYgi) to go over some the basic syntax and packages on python, you can view my code here https://lnkd.in/dgPnfSK. The course I am following was created by Maxwell Armi (https://lnkd.in/diVsFH8)
 
 # day 2
 yeah it's technically day 3, but I haven't fallen asleep yet so I figured I report what I learned throughout the day (for day 2). I also decided to include some stuff I am learning from my statistics tutoring position, applied statistical analysis, and algorithms and data structure class since they're relevant to my Data Science journey. 
