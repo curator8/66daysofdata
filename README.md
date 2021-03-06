@@ -25,3 +25,7 @@ Good morning everyone, yesterday wasn't as productive as a I hoped, since I had 
 In discrete math, we're learning about proofs. I definitely see all the hype (not really) behind them. To do a proof requires a strict style of thinking, and in a computer scientist case, a strict style of thinking on the nature of countable items. I am little foggy on the concepts, but I have to pretty much prove a theorem, such as "all numbers are integers are positive" (or there is a number that is positive), by presenting hypotheses that eventually leads to the conclusion. So far, I learned there are different styles of arguments, but I need more time to practice them first. 
 
 In Statistics, I continued refining my understanding on cofounding and interaction between predictor variables and determining whether by adding an extra predictor variable in the analysis affects the original X-Y relationship. I am guessing analyzing cofounding is a nice numerical measure on the effects on adding a variable, that being said, I have to be careful not to confuse it with correlation or the coefficient of determination.  
+
+# day 5 
+
+this is my edit using the git/github workflow! I will add some more comments later tonight.
