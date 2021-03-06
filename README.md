@@ -18,3 +18,10 @@ I was catching up on some assignments last night so I didn't get a chance to pos
 I mainly reviewed a lot of statistics yesterday. I read some more on how we interpret cofounding and the coefficient of determination when applying multiple linear regression in context of the given question and data. That being said, my applied statistical analysis teacher recently assigned a project to us to apply some of the concepts we learned so far which should be fun :).
 
 I also brushed up on some previous concept like binomial distribution (and function) to help a fellow student with some of the intuition behind it and how to solve different sorts problems associated with it. But, that's all for today, thanks for reading!
+
+# day 4 
+#66daysofdata: day 4: Good morning everyone, yesterday wasn't as productive as a I hoped, since I had to catch up on some discrete math and statistics HW. But since those two classes are relevant to the whole data journey, talking about them counts!
+
+In discrete math, we're learning about proofs. I definitely see all the hype (not really) behind them. To do a proof requires a strict style of thinking, and in a computer scientist case, a strict style of thinking on the nature of countable items. I am little foggy on the concepts, but I have to pretty much prove a theorem, such as "all numbers are integers are positive" (or there is a number that is positive), by presenting hypotheses that eventually leads to the conclusion. So far, I learned there are different styles of arguments, but I need more time to practice them first. 
+
+In Statistics, I continued refining my understanding on cofounding and interaction between predictor variables and determining whether by adding an extra predictor variable in the analysis affects the original X-Y relationship. I am guessing analyzing cofounding is a nice numerical measure on the effects on adding a variable, that being said, I have to be careful not to confuse it with correlation or the coefficient of determination.  
