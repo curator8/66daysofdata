@@ -20,7 +20,7 @@ I mainly reviewed a lot of statistics yesterday. I read some more on how we inte
 I also brushed up on some previous concept like binomial distribution (and function) to help a fellow student with some of the intuition behind it and how to solve different sorts problems associated with it. But, that's all for today, thanks for reading!
 
 # day 4 
-#66daysofdata: day 4: Good morning everyone, yesterday wasn't as productive as a I hoped, since I had to catch up on some discrete math and statistics HW. But since those two classes are relevant to the whole data journey, talking about them counts!
+Good morning everyone, yesterday wasn't as productive as a I hoped, since I had to catch up on some discrete math and statistics HW. But since those two classes are relevant to the whole data journey, talking about them counts!
 
 In discrete math, we're learning about proofs. I definitely see all the hype (not really) behind them. To do a proof requires a strict style of thinking, and in a computer scientist case, a strict style of thinking on the nature of countable items. I am little foggy on the concepts, but I have to pretty much prove a theorem, such as "all numbers are integers are positive" (or there is a number that is positive), by presenting hypotheses that eventually leads to the conclusion. So far, I learned there are different styles of arguments, but I need more time to practice them first. 
 
