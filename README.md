@@ -29,3 +29,6 @@ In Statistics, I continued refining my understanding on cofounding and interacti
 # day 5 
 
 this is my edit using the git/github workflow! I will add some more comments later tonight.
+SO yesterday wasn't entirely related to data science but rather to tools that can benefit my journey. I was able apply the whole git/Github workflow to a research project at ECU on personalized learning. The task I'm doing isn't fancy, I am basically helping a professor convert Rmarkdown to a static website using Jekyll. The eventual goal of the website is to help fellow CS student tailor they're learning by repeating randomly generated assessments. 
+
+Another thing I focused on was taking the time at work to expose myself to the ideas behind machine learning and the math that goes into them. During this time, I started seeing machine learning as more of a math problem, rather than a coding problem, where we're trying to optimize a model to get better at guessing a wanted value. A lot like the idea behind limits, we plug and chug values within a parameter(s) to get closer to the true model adjusting for error along the way. Although I plan on fleshing these idea out much further, some links that helped me realize this: https://www.youtube.com/watch?v=MDL384gsAk0&t=510s , https://www.youtube.com/watch?v=uZeDTwWcnuY&t=544s, https://www.youtube.com/watch?v=VwVg9jCtqaU
