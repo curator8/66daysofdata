@@ -32,3 +32,13 @@ this is my edit using the git/github workflow! I will add some more comments lat
 SO yesterday wasn't entirely related to data science but rather to tools that can benefit my journey. I was able apply the whole git/Github workflow to a research project at ECU on personalized learning. The task I'm doing isn't fancy, I am basically helping a professor convert Rmarkdown to a static website using Jekyll. The eventual goal of the website is to help fellow CS student tailor they're learning by repeating randomly generated assessments. 
 
 Another thing I focused on was taking the time at work to expose myself to the ideas behind machine learning and the math that goes into them. During this time, I started seeing machine learning as more of a math problem, rather than a coding problem, where we're trying to optimize a model to get better at guessing a wanted value. A lot like the idea behind limits, we plug and chug values within a parameter(s) to get closer to the true model adjusting for error along the way. Although I plan on fleshing these idea out much further, some links that helped me realize this: https://www.youtube.com/watch?v=MDL384gsAk0&t=510s , https://www.youtube.com/watch?v=uZeDTwWcnuY&t=544s, https://www.youtube.com/watch?v=VwVg9jCtqaU
+
+# day 6
+
+Yesterday was much more productive since I mainly focused on statistics, NumPy, and the overview of the field data science.
+
+Lately statistics has been sorta confusing. Overall to get numerical measures like coefficient of determination (or even partial coefficient of determination) is an easy plug and chug process, the interpretation of those numbers and how they relate to the overall analysis is confusing. Fortunately stepping away from it has inched me forward to a more intuitive understanding.
+
+One thing that has been going well is my progress with Maxwell Armi's python video (https://lnkd.in/dWjjUVz). I am reviewing array setups using NumPy and recently started working with the Jupyter Notebook.
+
+Another cool thing I have been doing is listening to a good video by Barton Poulson (https://lnkd.in/dJs-5ss). His video is a lot like an intro to "insert field here" that goes over salary, jobs, fields (and there intersections), etc. More importantly he also goes over the math, tools, and workflow a data scientist will eventually go through. I feel like understanding these topics will help me define the steps I need to take to become a data scientist.
