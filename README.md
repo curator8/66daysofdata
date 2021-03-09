@@ -42,3 +42,9 @@ Lately statistics has been sorta confusing. Overall to get numerical measures li
 One thing that has been going well is my progress with Maxwell Armi's python video (https://lnkd.in/dWjjUVz). I am reviewing array setups using NumPy and recently started working with the Jupyter Notebook.
 
 Another cool thing I have been doing is listening to a good video by Barton Poulson (https://lnkd.in/dJs-5ss). His video is a lot like an intro to "insert field here" that goes over salary, jobs, fields (and there intersections), etc. More importantly he also goes over the math, tools, and workflow a data scientist will eventually go through. I feel like understanding these topics will help me define the steps I need to take to become a data scientist.
+
+# day 7 
+
+Yesterday was a bit of a busy day so I didn't have time to focus on python, or really anything else other than statistics.
+
+Since I have a midterm due I mainly reviewed some of the stuff on SLR and how to get a confidence interval from each point estimate (B0, B1, and Y = B0 + B1x). I also met with my professor to go over hypothesis testing for MLR, to test whether adding a covariate is significant or not. Finally before and during work I went over some more fundamental concepts like normal distribution, standardized normal distribution, and central limit theorem which are really important to know when making inferences about a population.
