@@ -48,3 +48,11 @@ Another cool thing I have been doing is listening to a good video by Barton Poul
 Yesterday was a bit of a busy day so I didn't have time to focus on python, or really anything else other than statistics.
 
 Since I have a midterm due I mainly reviewed some of the stuff on SLR and how to get a confidence interval from each point estimate (B0, B1, and Y = B0 + B1x). I also met with my professor to go over hypothesis testing for MLR, to test whether adding a covariate is significant or not. Finally before and during work I went over some more fundamental concepts like normal distribution, standardized normal distribution, and central limit theorem which are really important to know when making inferences about a population.
+
+# day 8-11
+
+So this last week threw me for a loop. Between work and school, I was prepping for my statistics midterm (that was yesterday).
+
+Since I wanted to do well on my midterm, I reviewed a lot of statistic concepts the last few days. Specifically, normal distribution, standardized normal distribution, z-score, t-distribution, F-distribution, hypothesis testing, p-value, simple linear regression, correlation, ANOVA table, MLR, and hypothesis testing for MLR.
+
+At work I continued to listen to Barton Poulson overview of data science (https://lnkd.in/d_GTanb). He helped me realized a good data scientist tries to do three things; First, state goals. Second, keep a "story" in mind. And third, be clear and concise. Since this week is almost over (I still have another half of the test to finish), I'll be back on track with learning more about pandas in python.
