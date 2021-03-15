@@ -56,3 +56,9 @@ So this last week threw me for a loop. Between work and school, I was prepping f
 Since I wanted to do well on my midterm, I reviewed a lot of statistic concepts the last few days. Specifically, normal distribution, standardized normal distribution, z-score, t-distribution, F-distribution, hypothesis testing, p-value, simple linear regression, correlation, ANOVA table, MLR, and hypothesis testing for MLR.
 
 At work I continued to listen to Barton Poulson overview of data science (https://lnkd.in/d_GTanb). He helped me realized a good data scientist tries to do three things; First, state goals. Second, keep a "story" in mind. And third, be clear and concise. Since this week is almost over (I still have another half of the test to finish), I'll be back on track with learning more about pandas in python.
+
+# day 12-13
+
+A little late,but I was finally able to finish the other half my statistics exam. Looking back, taking this exam really solidified a lot of important concepts. Although it took a bit to complete, the second half of the exam was mainly about applying what we learned by analyzing data using either excel or minitab. I really like this portion because we had to translate outputs into intuitive statements like "we're 90% confident that there will be 10 calls at 90 degrees F" or determine the usefulness of adding another variable in multiple linear regression.
+
+But although I learned a lot, like anybody else, I am glad that's over. Looking forward to getting back on track with pandas and the overall data analytics track I set out to finish these next 2 months.
