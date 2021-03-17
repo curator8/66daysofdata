@@ -62,3 +62,9 @@ At work I continued to listen to Barton Poulson overview of data science (https:
 A little late,but I was finally able to finish the other half my statistics exam. Looking back, taking this exam really solidified a lot of important concepts. Although it took a bit to complete, the second half of the exam was mainly about applying what we learned by analyzing data using either excel or minitab. I really like this portion because we had to translate outputs into intuitive statements like "we're 90% confident that there will be 10 calls at 90 degrees F" or determine the usefulness of adding another variable in multiple linear regression.
 
 But although I learned a lot, like anybody else, I am glad that's over. Looking forward to getting back on track with pandas and the overall data analytics track I set out to finish these next 2 months.
+
+# day 14-15
+
+I am starting to get back into the groove of things. We started a new programming assignment in my data structures and algorithm class that requires us to work with 2D arrays and text files, definitely looking forward to learning more about them. In discrete math we started learning about set theory, which showed up a lot when I went over probability in my previous statistics class. So far, I feel like discrete math has really built my foundation to learn harder math topics. 
+
+In terms of data analysis, I actually started a new course by Santiago Basulto (https://www.youtube.com/watch?v=r-uOLxNrNk8). So far we set up a google colab and Github repository (https://github.com/curator8/66daysofdata), that uses Jupyter Notebook (and a variety of python packages) to describe the data. I am excited about this course because Santiago has fleshed out examples that run through the first steps of the data science workflow (data collection, cleaning, and wrangling).  
