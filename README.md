@@ -68,3 +68,11 @@ But although I learned a lot, like anybody else, I am glad that's over. Looking 
 I am starting to get back into the groove of things. We started a new programming assignment in my data structures and algorithm class that requires us to work with 2D arrays and text files, definitely looking forward to learning more about them. In discrete math we started learning about set theory, which showed up a lot when I went over probability in my previous statistics class. So far, I feel like discrete math has really built my foundation to learn harder math topics. 
 
 In terms of data analysis, I actually started a new course by Santiago Basulto (https://www.youtube.com/watch?v=r-uOLxNrNk8). So far we set up a google colab and Github repository (https://github.com/curator8/66daysofdata), that uses Jupyter Notebook (and a variety of python packages) to describe the data. I am excited about this course because Santiago has fleshed out examples that run through the first steps of the data science workflow (data collection, cleaning, and wrangling).  
+
+# day 16-22
+
+So  last week has taught me a few things  I need to consider when planning my upcoming summer/fall. First managing stress and burnout is important. When calculating how many hours I work between school, tutoring, undergrad CS-help, and Wal-mart I clock about 15 hours a day, or 100 hours a week.  I am all for working hard towards a goal, but I know realize the importance of having a day off.
+
+The second thing I learned, the importance of pushing forward even though things seem grim. Overall, although I didn't feel successful, I still was able to learn about 2D arrays and their relations with .txt files in C++, ANCOVA table, and numpy and how it optimizes operations under the (computer's) hood.
+
+this upcoming week I plan on relearning some of the statistical methods from last week, learn about recursion, and continue practicing data analytics using pandas. 
