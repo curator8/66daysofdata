@@ -76,3 +76,11 @@ So  last week has taught me a few things  I need to consider when planning my up
 The second thing I learned, the importance of pushing forward even though things seem grim. Overall, although I didn't feel successful, I still was able to learn about 2D arrays and their relations with .txt files in C++, ANCOVA table, and numpy and how it optimizes operations under the (computer's) hood.
 
 this upcoming week I plan on relearning some of the statistical methods from last week, learn about recursion, and continue practicing data analytics using pandas. 
+
+# day 23-29
+
+So this last week was much more productive. After relaxing for a bit I was able to go back and relearn some of the foggier statistic concepts like categorical predictors and ANACOVA table. I also learned some newer concepts like regression diagnostic and polynomial regression.  
+
+In term of CS we are starting to learn about recursion and some simpler algorithms like sequential search and binary search. I realized that programming is a lot like a hands on skill. It won't truly stick unless I personally hack some code together. 
+
+Overall, I think I've gotten into the groove of things and am looking forward to finishing strong this semester. That being said, I decided to put off my data analytics path until the summer, which is only a month away :D.  
